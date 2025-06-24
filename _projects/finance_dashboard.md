@@ -1,10 +1,10 @@
 ---
 title: "Finance Dashboard"
 layout: single
-permalink: /projects/sales-dashboard/
+permalink: /projects/finance_dashboard/
 ---
 
-<img src="/assets/images/sales-dashboard/main.png" width="500">
+<img src="/assets/images/finance_dashboard/main.png" width="500">
 
 Built a Qlik dashboard to visualize financial KPIs, demographic trends, and region-based metrics.
 
