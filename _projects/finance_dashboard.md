@@ -4,9 +4,10 @@ layout: single
 permalink: /projects/finance_dashboard/
 ---
 
-<img src="/assets/images/finance_dashboard/main.png" width="500">
+**Temporary Note**: No screenshots yet; still determining what I can legally show due to constraints from a Non-Disclosure Agreement
 
 Built a Qlik dashboard to visualize financial KPIs, demographic trends, and region-based metrics.
 
 **Tools Used**: Qlik Sense, Excel  
-**Business Value**: Reduced reporting time by 70%, improved product strategy
+**Business Value**: Help a bank idenitfy optimal regions for consolidating and acquiring branches. Create recommendations for loan products based on demographics.
+

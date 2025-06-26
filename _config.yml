@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "Data analyst with roughly a year of experience through a combination of paid work, academic projects, and volunteer roles."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/john-pino-/"
@@ -107,4 +104,4 @@ tag_archive:
 collections:
   projects:
     output: true
-    permalink: /projects/:name/
+    permalink: /projects/:title/
